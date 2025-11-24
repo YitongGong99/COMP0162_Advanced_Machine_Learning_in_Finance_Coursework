@@ -1,1 +1,10 @@
-# COMP0162_Advanced_Machine_Learning_in_Finance_Coursework
+# COMP0162 Advanced Machine Learning in Finance Coursework
+
+## 🎓 学术背景
+本项目是UCL COMP0162 课程的学术作业，完成于2025年3月。所有报告内容、代码实现和分析均由本人独立完成。
+
+## ⚠️ 学术诚信声明
+本仓库旨在展示个人学术作品，请尊重知识产权和学术诚信：
+- 请勿直接复制本作品用于课程提交
+- 引用本作品请注明出处
+- 学术不端行为的后果自负
